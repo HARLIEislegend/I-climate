@@ -1,0 +1,15 @@
+*{
+    padding :0;
+    margin: 0;
+
+}
+.label{
+    text-align: center;
+}
+.bg{
+    background-image: url("https://source.unsplash.com/1600x900/?nature");
+   background-repeat: no-repeat;
+}
+.textc1{
+    text-decoration-color: brown;
+}
